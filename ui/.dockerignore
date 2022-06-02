@@ -1,0 +1,13 @@
+**/node_modules
+public
+notes
+.editorconfig
+.eslintignore
+.eslintrc.*
+.gitignore
+nodemon.json
+package
+README.MD
+docker
+ignoreDockerFile
+package-lock.json
